@@ -1,6 +1,9 @@
 ### Particle Filter Localization
 This is an implementation of Particle Filter Localization in Python using the Pygame library. The main goal of this project is to demonstrate how a robot can localize itself within an environment based on sensor measurements.
 
+![robot_localization](https://user-images.githubusercontent.com/32487291/235190208-dde222e4-c33b-464e-8a6f-4a8d2d2b9463.gif)
+
+
 Note: The current implementation measures only the wall corners while sensing. Users can modify the code to measure actual walls if desired.
 
 Table of Contents:
